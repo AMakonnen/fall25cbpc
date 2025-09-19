@@ -1,9 +1,22 @@
 display_name,stub,dropdown_parent
 Home,/
+About,/about.html
 Browse,/browse.html
-Subjects,/subjects.html
-Locations,/locations.html
-Map,/map.html
 Timeline,/timeline.html
 Data,/data.html
-About,/about.html
+Background,,
+The Golden Age,/Golden.html,Background
+Frederic Werthram and The Senate Comic Book Hearings of 1954,/Werthram.html,Background
+Genre,,
+Crime and Horror Comics,/Crime.html,Genre
+Romance Comics,/Romance.html,Genre
+Superhero Comics,/Superhero.html,Genre
+Genre Word Cloud,/genrecloud.html,Genre
+The Moral Panic,,
+Violence,/Violence.html,The Moral Panic
+Fear and Anxiety,/Anxiety.html,The Moral Panic
+Respect for Authority,/Authority.html,The Moral Panic
+Glorifying Superman,/Superman.html,The Moral Panic
+The Code,,
+Censorship,/Censorship.html,The Code
+Works Cited,/workscited.html
