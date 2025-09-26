@@ -8,3 +8,4 @@ cloud-stopwords:
 
 ## Browse Genre
 
+{% include feature/pdf.html objectid="Comic Code Authority Guidelines-3" width="50" %}
