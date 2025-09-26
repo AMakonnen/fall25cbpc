@@ -4,7 +4,7 @@ layout: about
 permalink: /Superman.html
 credits: true
 ---
-Glorifying the "Superman"
+**Glorifying the "Superman"**
 
 In 1940, an editorial written by book critic, Sterling North, titled “A National Disgrace”, was a catalyst for backlash against comic books. North expressed in his editorial how comic books take money from children in exchange for “graphic insanity” (North). Parents now worried about the content that their children were consuming and viewed comics as a violent stimulant. North goes on to blame parents, teachers, and publishers for allowing children access to these comics. One solution that was suggested was to supply children with classic literature in place of comic books.
 
